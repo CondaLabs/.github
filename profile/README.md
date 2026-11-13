@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # CondaLabs
 
@@ -43,15 +43,15 @@ We aim to follow a few principles across our projects:
 - **Transparency:** Keep development and project information accessible.
 - **Continuous improvement:** Learn, refine, and improve with every release.
 
-## Contributing
+## Community Guidelines
 
-We welcome contributions, suggestions, bug reports, and feedback.
+We welcome contributions, suggestions, bug reports, and feedback. Before participating in our projects, please take a moment to review our community guidelines:
 
-If you are interested in contributing to a project, check its repository for contribution guidelines and open issues.
+- [Contributing Guidelines](../CONTRIBUTING.md): How to report bugs, suggest features, and submit pull requests.
+- [Code of Conduct](../CODE_OF_CONDUCT.md): The standards for respectful and constructive participation in our community.
+- [Security Policy](../SECURITY.md): How to responsibly report potential security vulnerabilities.
 
-## Security
-
-If you discover a security vulnerability in one of our projects, please follow the security reporting instructions provided in that project's `SECURITY.md` file.
+These guidelines apply across CondaLabs repositories unless a project provides its own instructions or policies.
 
 ## Connect
 
