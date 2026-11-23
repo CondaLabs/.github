@@ -33,6 +33,18 @@ UniTask brings deadlines, timetables, reminders, personal tasks, notes, and stud
 
 [View repository](https://github.com/CondaLabs/unitask) · [Latest release](https://github.com/CondaLabs/unitask/releases/latest)
 
+### [Skerry](https://github.com/ahmad-maqsood/skerry)
+
+**A modern, lightweight Dynamic Island for Windows 10 and 11.**
+
+Skerry brings useful desktop features into one floating interface, including notifications, media controls with synced lyrics, clipboard history, to-dos, focus timers, file staging, quick translation, and live PC health and network monitoring.
+
+- Built with Tauri 2, React, TypeScript, and Rust.
+- Designed to provide quick access to everyday desktop tools.
+- An independently maintained project by Ahmad Maqsood, featured here by CondaLabs; the repository remains under its original ownership.
+
+[View repository](https://github.com/ahmad-maqsood/skerry)
+
 ## Development Principles
 
 We aim to follow a few principles across our projects:
