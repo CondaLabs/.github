@@ -6,7 +6,6 @@
 
 Creating practical, reliable, and accessible software with a focus on simplicity, quality, and open-source development.
 
-[![GitHub Organization](https://img.shields.io/badge/GitHub-CondaLabs-181717?style=flat-square&logo=github)](https://github.com/CondaLabs)
 
 </div>
 
@@ -32,6 +31,19 @@ Skerry brings useful desktop features into one floating interface, including not
 
 [View repository](https://github.com/ahmad-maqsood/skerry)
 
+### [UniTask](https://github.com/ahmad-maqsood/unitask)
+
+**An offline-first Android app designed to help university students stay organized.**
+
+UniTask brings together tasks, assignment deadlines, class timetables, reminders, notes, and study tools in one application.
+
+- Built with Kotlin and Jetpack Compose.
+- Designed to work primarily offline.
+- No advertising or tracking.
+
+[View repository](https://github.com/ahmad-maqsood/unitask)
+
+
 ## Development Principles
 
 We aim to follow a few principles across our work:
@@ -41,11 +53,6 @@ We aim to follow a few principles across our work:
 - **Privacy:** Respect user data and avoid unnecessary data collection.
 - **Transparency:** Keep development and project information accessible.
 - **Continuous improvement:** Learn, refine, and improve with every release.
-
-## Explore
-
-- **GitHub:** [github.com/CondaLabs](https://github.com/CondaLabs)
-- **Repositories:** [Explore CondaLabs repositories](https://github.com/orgs/CondaLabs/repositories)
 
 ---
 
