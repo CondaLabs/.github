@@ -6,7 +6,7 @@
 
 Creating practical, reliable, and accessible software with a focus on simplicity, quality, and open-source development.
 
-[![GitHub Org](https://img.shields.io/badge/GitHub-CondaLabs-181717?style=flat-square&logo=github)](https://github.com/CondaLabs)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-CondaLabs-181717?style=flat-square&logo=github)](https://github.com/CondaLabs)
 
 </div>
 
@@ -14,24 +14,11 @@ Creating practical, reliable, and accessible software with a focus on simplicity
 
 ## About
 
-CondaLabs is a software development organization focused on building and maintaining useful software projects.
+CondaLabs is an independent software organization focused on building and maintaining useful software projects.
 
-Our goal is to create solutions that address real-world needs while keeping software practical, maintainable, and accessible. We value thoughtful design, reliable engineering, transparency, and continuous improvement.
+Our goal is to create solutions that address real-world needs while keeping software practical, maintainable, and accessible. We value thoughtful design, reliable engineering, transparency, privacy, and continuous improvement.
 
-## Projects
-
-### [UniTask](https://github.com/CondaLabs/unitask)
-
-**A local-first Android task manager for university students.**
-
-UniTask brings deadlines, timetables, reminders, personal tasks, notes, and study groups together in one application.
-
-- Built with Kotlin and Jetpack Compose.
-- Designed with an offline-first approach.
-- No advertising or tracking.
-- Open-source and actively maintained.
-
-[View repository](https://github.com/CondaLabs/unitask) · [Latest release](https://github.com/CondaLabs/unitask/releases/latest)
+## Featured Project
 
 ### [Skerry](https://github.com/ahmad-maqsood/skerry)
 
@@ -41,13 +28,13 @@ Skerry brings useful desktop features into one floating interface, including not
 
 - Built with Tauri 2, React, TypeScript, and Rust.
 - Designed to provide quick access to everyday desktop tools.
-- An independently maintained project by Ahmad Maqsood, featured here by CondaLabs; the repository remains under its original ownership.
+- Independently maintained by Ahmad Maqsood. The repository remains under its original personal ownership and is not hosted by CondaLabs.
 
 [View repository](https://github.com/ahmad-maqsood/skerry)
 
 ## Development Principles
 
-We aim to follow a few principles across our projects:
+We aim to follow a few principles across our work:
 
 - **Practicality:** Build software that solves actual problems.
 - **Reliability:** Prioritize stability, maintainability, and consistent behaviour.
@@ -55,20 +42,10 @@ We aim to follow a few principles across our projects:
 - **Transparency:** Keep development and project information accessible.
 - **Continuous improvement:** Learn, refine, and improve with every release.
 
-## Community Guidelines
-
-We welcome contributions, suggestions, bug reports, and feedback. Before participating in our projects, please take a moment to review our community guidelines:
-
-- [Contributing Guidelines](../CONTRIBUTING.md): How to report bugs, suggest features, and submit pull requests.
-- [Code of Conduct](../CODE_OF_CONDUCT.md): The standards for respectful and constructive participation in our community.
-- [Security Policy](../SECURITY.md): How to responsibly report potential security vulnerabilities.
-
-These guidelines apply across CondaLabs repositories unless a project provides its own instructions or policies.
-
-## Connect
+## Explore
 
 - **GitHub:** [github.com/CondaLabs](https://github.com/CondaLabs)
-- **Projects:** [Explore our repositories](https://github.com/orgs/CondaLabs/repositories)
+- **Repositories:** [Explore CondaLabs repositories](https://github.com/orgs/CondaLabs/repositories)
 
 ---
 
