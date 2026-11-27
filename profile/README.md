@@ -43,17 +43,6 @@ UniTask brings together tasks, assignment deadlines, class timetables, reminders
 
 [View repository](https://github.com/ahmad-maqsood/unitask)
 
-
-## Development Principles
-
-We aim to follow a few principles across our work:
-
-- **Practicality:** Build software that solves actual problems.
-- **Reliability:** Prioritize stability, maintainability, and consistent behaviour.
-- **Privacy:** Respect user data and avoid unnecessary data collection.
-- **Transparency:** Keep development and project information accessible.
-- **Continuous improvement:** Learn, refine, and improve with every release.
-
 ---
 
 <div align="center">
